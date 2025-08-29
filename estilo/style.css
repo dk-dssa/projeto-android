@@ -66,6 +66,7 @@ header> p{
     padding-right: 10px;
     padding-left: 10px;
     margin: auto; 
+    padding-bottom: 50px;
     text-shadow: 10px 10px 15px rgba(0, 0, 0, 0.233);
 }
 nav{
@@ -75,7 +76,7 @@ nav{
     sombra*/
 }
 nav> a{
-    color: white;
+    color: var(--cor0);
     padding: 10px;
     text-decoration: none; /*remove o sublinhado do link*/
     font-weight: bold;
